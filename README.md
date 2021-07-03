@@ -6,7 +6,7 @@ pkg install python -y
 
 pkg install git -y
 
-git clone https://github.com/RootOfCyber/roc-x
+git clone https://github.com/Dsx7/Dsx
 
 Commands For All Time:
 
